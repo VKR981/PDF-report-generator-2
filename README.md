@@ -1,7 +1,6 @@
 # PDF-report-generator
 
-This code takes excel datasheet of students examination and processes it to generate scores, percentailes, and charts using Python libraries Pandas, Matplotlib, numpy.
-The data is then filled in a HTML page (made using Bootstrap) and then converted into PDF via Selenium Chromedriver
+This code takes excel datasheet of students' examination and processes it to generate scores, percentiles, and charts using Python libraries Pandas, Matplotlib, NumPy. The data is then filled in an HTML page (made using Bootstrap) and then converted into PDF via Selenium Chromedriver
 
 ## samples
 <table fill="red" style="color:orange;" style="text-align: center;  background-color: #F9A825;">
